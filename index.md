@@ -1,8 +1,9 @@
 ---
 layout: page
+title: home
 ---
 
-# Webware (CS-4241)
+Webware (CS-4241)
 
 Term A -- 2017 
 
