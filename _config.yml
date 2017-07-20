@@ -24,7 +24,7 @@ github_username:  cs4241-17a
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
