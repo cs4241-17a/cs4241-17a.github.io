@@ -1,0 +1,80 @@
+[
+  {
+    "date": "24-Aug-2017",
+    "topic": "Getting Started with Web Development",
+    "assigned": { text: "A1", link: "http://github.com/cs4241-17a/a1" }
+  },
+  {
+    "date": "28-Aug-2017",
+    "topic": "Course overview and environment setup, Introduction to HTTP and Web applications, Live Coding"
+  },
+  {
+    "date": "31-Aug-2017",
+    "topic": "HTML, CSS",
+    "assigned": { text: "A2", link: "" },
+    "due": "A1"
+  },
+  {
+    "date": "04-Sep-2017",
+    "topic": "Labor Day (No Classes)"
+  },
+  {
+    "date": "07-Sep-2017",
+    "topic": "Servers and Forms",
+    "assigned": { text: "A3", link: "" },
+    "due": "A2"
+  },
+  {
+    "date": "11-Sep-2017",
+    "topic": "Exam Review, Persistence",
+    "assigned": { text: "A4", link: "" },
+    "due": "A3"
+  },
+  {
+    "date": "14-Sep-2017",
+    "topic": "Exam 1",
+    "assigned": { text: "Final Project", link: "" },
+    "due": "A4"
+  },
+  {
+    "date": "18-Sep-2017",
+    "topic": "Midpoint Survey Discussion; Tools, Fonts, Design, and Usability"
+  },
+  {
+    "date": "21-Sep-2017",
+    "topic": "Exam 1 Recap, AJAX Introduction",
+    "assigned": { text: "A5", link: "" },
+    "due": "Final Project Proposal"
+  },
+  {
+    "date": "25-Sep-2017",
+    "topic": "The DOM, Event Handling and JavaScript Events",
+    "assigned": { text: "A6", link: "" },
+    "due": "A5"
+  },
+  {
+    "date": "28-Sep-2017",
+    "topic": "Cookies, Exam 2 Review"
+  },
+  {
+    "date": "02-Oct-2017",
+    "topic": "Templating, Exam 2",
+    "assigned": { text: "A7", link: "" },
+    "due": "A6"
+  },
+  {
+    "date": "05-Oct-2017",
+    "topic": "Local Storage",
+    "assigned": { text: "A8", link: "" },
+    "due": "A7"
+  },
+  {
+    "date": "09-Oct-2017",
+    "topic": "RESTful Services, Real-time, Sockets",
+    "due": "A8"
+  },
+  {
+    "date": "12-Oct-2017",
+    "topic": "Final Project Showcase"
+  }
+]
