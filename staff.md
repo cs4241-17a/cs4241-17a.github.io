@@ -12,7 +12,7 @@ Instructor
 [Lane Harrison](http://web.cs.wpi.edu/~ltharrison/)  
 [`@laneharrison`](http://twitter.com/laneharrison/)  
 [FL-136](http://myatlascms.com/map/?id=609&mrkIid=105239)  
-Friday 3-4 @ Fl-136 or by appointment
+Tuesday 1-2 @ Fl-136 or by appointment
 
 TAs   
 [Hamid Mansoor](hmansoor@wpi.edu)  
