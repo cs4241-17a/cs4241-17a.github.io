@@ -16,7 +16,6 @@
 title: cs4241-17a-webware
 email: cs4241-staff@cs.wpi.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Base for Webware, A-term 2017 offering @WPI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
