@@ -26,9 +26,9 @@ Email: amoghimi@wpi.edu
 Monday 10-12p @ FL A22 
 
 SAs   
-[Nam Tran](http://namt.io)  
-Email: nhtranngoc@wpi.edu   
-Friday 3-5pm @ FL A22
+[Erik Sola](edsola@wpi.edu)  
+Email: edsola@wpi.edu   
+Monday 4-5pm @ FL A22
 
 [Chris Navarro](cjnavarro@wpi.edu)  
 Email: cjnavarro@wpi.edu  
