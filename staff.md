@@ -30,8 +30,8 @@ SAs
 Email: nhtranngoc@wpi.edu   
 Friday 3-5pm @ FL A22
 
-[Chris Navarro](cjnavarro@wpi.edu)  
-Email: cjnavarro@wpi.edu  
-Wednesdays 2-4pm @ FL A22
+[Anqi Lu](alu@wpi.edu)  
+Email: alu@wpi.edu  
+Thursday 2-3pm @ FL A22
 
 
