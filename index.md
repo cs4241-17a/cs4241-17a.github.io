@@ -4,6 +4,8 @@ title: home
 ---
 
 <style>
+  @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100|Text+Me+One');
+
   .class-header {
     background-color: rgba(19, 37, 62, 1);
     color: white;
