@@ -7,9 +7,15 @@ permalink: /syl/
 Course Description
 ---
 
-This course explores the computational aspects of network information systems as embodied by the World Wide Web (WWW). Topics include: languages for document design, programming languages for executable content, scripting languages, design of WWW based human/computer interfaces, client/server network architecture models, high level network protocols (e.g., http), WWW network resource discovery and network security issues. Students in this course will be expected to complete a substantial software project (e.g., Java based user interface, HTML/CGI based information system, WWW search mechanisms, etc.). 
+This course explores the computational aspects of network information systems as embodied by the World Wide Web (WWW). 
+Topics include: languages for document design, programming languages for executable content, scripting languages, design of web-based human/computer interfaces, client/server network architecture models, high level network protocols (e.g., http), and network security issues. 
+Students in this course will be expected to complete a substantial software project (e.g., full stack web application). 
 
-This course provides you with the foundation needed to construct Web applications. It provides you with an introduction to distributed computing paradigms for the Web as well as the knowledge for developing static and dynamic content for your Web applications. You will be exposed to various protocols for technologies currently used. We will focus on the underlying principles rather than just the latest technology or tool since these will pass, only to be replaced by new ones. The student who successfully finishes this course will be able to pursue further study into and practice of using Web software technologies.
+This course provides you with the foundation needed to construct Web applications. 
+It provides you with an introduction to distributed computing paradigms for the Web as well as the knowledge for developing static and dynamic content for your Web applications. 
+You will be exposed to various protocols for technologies currently used. 
+We will focus on the underlying principles rather than just the latest technology or tool since these will pass, only to be replaced by new ones. 
+The student who successfully finishes this course will be able to pursue further study into and practice of using Web software technologies.
 
 Learning Goals
 ---
@@ -28,23 +34,23 @@ Required Text
 There are no required texts for this course.
 Everything you need is on the web.
 
-If you're looking for js specific resources, I hear [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) is a favorite of many web developers.
+If you're looking for `js` specific resources, I hear [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) is a favorite of many web developers.
 
 Assignments
 ---
-Request access to team GitHub [here](https://github.com/orgs/cs4241-16b/teams/class).
-
 Assignments are the core of this course. 
 Each assignment will focus on a particular aspect of web development, such as routes or sending data from server to client and vice versa. 
 The lectures and labs will equip you with the background, theory, and technical skills to develop web applications.
 
 Labs
 ---
-Every week will include an in-class lab. These labs provide an opportunity for you to learn more about web application development, design, or technologies.
+Many weeks will include an in-class lab. 
+These labs provide an opportunity for you to learn more about web application development, design, or technologies.
 
 Exams
 ---
-We'll have a midterm and final based on the readings, labs, assignments, and lectures. These help gauge how well you've understood the material.
+We'll have a midterm and final based on the readings, labs, assignments, and lectures. 
+These help gauge how well you've understood the material, and help me understand how well I've communicated it.
 
 
 Programming Language
@@ -52,7 +58,10 @@ Programming Language
 
 We'll be using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) with [node.js](http://nodejs.org/) to develop web applications in this course.
 
-While JavaScript is the main language for front-end web application development, there are a variety of choices for back-end languages. Java, Python, Ruby, and many other languages have HTTP support. We'll be using node.js for simplicity and consistency.
+While JavaScript is the main language for front-end web application development, there are a variety of choices for back-end languages. Java, Python, Ruby, and many other languages have HTTP support. 
+We'll be using node.js for simplicity and consistency.
+
+The first person who sends me a pull request correcting a typo or broken link will receive a tech sticker of their choosing from my collection.
 
 Discussion / Questions
 ---
@@ -60,9 +69,9 @@ Discussion / Questions
 This term we will be using Slack for class discussion. 
 The system is highly catered to getting you help fast and efficiently from classmates and myself. 
 
-Rather than emailing questions to me or the staff, I encourage you to post your questions on Slack. 
+Rather than emailing questions to me or the staff, post your questions on Slack. 
 
-Sign up for our [Slack Team](https://cs4241-16b.slack.com/x-94842639954-94842655618/signup).
+Sign up for our [Slack Team](https://join.slack.com/t/cs4241-17a/shared_invite/MjI3NjQ2NTcyMDY2LTE1MDI5MTc5NzQtYmI5MTU3OWRmZg).
 
 Grading
 ---
@@ -80,8 +89,43 @@ If you have an 80 or better average you will get at least a B.
 If you have a 70 average or better you will get at least a C. 
 I may adjust the threshold downward, but never up.
 
-I do not accept late homework. 
-If you do not have the homework done on time you will receive a zero for that assignment. 
+I don't accept late homework, doing so is unfair to your fellow students and to course staff. 
+If you don't have the homework done on time you will receive a zero for that assignment. 
 You are expected to complete the assignment and have it deployed by the due date.
 
+### Assignment Achievements
 
+Unless otherwise noted, meeting the minimum requirements for an assignment earns you a B.
+
+You may earn up to additional 24 (12+12) additional points via __Technical Achievements__ and __Design/Usability Achievements__.
+Achievements are an opportunity for you to take an active role in your learning and assessment.
+A technical achievement might be: substantial additions to the project requirements, a particularly robust algorithm, non-trivial use of outside frameworks and libraries\*.
+A design/usability achievement might be: interactive functionality, animations, or styling that is objectively "more usable" than the minimum requirements.
+
+The success of Achievements hinges on how well you describe them in your Readme.
+Well formatted text, images, and concise and clear descriptions are key.
+Every Readme must include a Technical Achievements and Design/Usability Achievements section, even if none are attempted.
+
+Note that the optimal strategy is to include both types of achievements in your project scope.
+In other words, it's rare for someone to get all 12 points of one type.
+
+\*Make sure any frameworks and libraries **do not** interfere with the underlying intellectual challenge of the assignment. In other words, if I ask you to write an HTTP server and you use a package, you'll lose points instead of gaining them. 
+
+
+
+Academic Integrity
+---
+
+In this class, students may not look at any previous versions of a course assignment or project, regardless of how it is posted. 
+If a student accidentally discovers such a posting, they must report it to the instructor immediately, avoid the resource in the future, and delete any copies that are cached on their computer.
+
+Students are likewise forbidden from facilitating other students, current or future, in plagiarism or cheating. 
+Students may not distribute their code publicly on the Internet, or in other means, during the term or even after the class has concluded. 
+Students may share their code with potential employers or other individuals privately, so long as the code would not become available to other WPI students.
+
+Acknowledgements
+---
+
+Some aspects of these course materials were adapted from materials by:
+- Gary Pollice
+- Craig Shue

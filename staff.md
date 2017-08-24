@@ -14,6 +14,8 @@ Instructor
 [FL-136](http://myatlascms.com/map/?id=609&mrkIid=105239)  
 Tuesday 1-2 @ Fl-136 or by appointment
 
+**Note: the below is outdated- new staff/times coming soon.**
+
 TAs   
 [Hamid Mansoor](hmansoor@wpi.edu)  
 Email: hmansoor@wpi.edu   

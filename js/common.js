@@ -4,8 +4,8 @@ function getThisPath()
 {
     var path = window.location.pathname;
     if (path === "/")
-        path = "/index";
-    return path;
+        path = "/index/";
+    return path.slice(0, -1);
 }
 
 function createPullRequestURL()
