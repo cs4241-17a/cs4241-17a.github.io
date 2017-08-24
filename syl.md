@@ -71,8 +71,6 @@ The system is highly catered to getting you help fast and efficiently from class
 
 Rather than emailing questions to me or the staff, post your questions on Slack. 
 
-Sign up for our [Slack Team](https://join.slack.com/t/cs4241-17a/shared_invite/MjI3NjQ2NTcyMDY2LTE1MDI5MTc5NzQtYmI5MTU3OWRmZg).
-
 Grading
 ---
 
