@@ -17,7 +17,7 @@ Tuesday 3-4 @ Fl-136 (starting 9/5, not 8/29)
 TAs   
 [Hamid Mansoor](hmansoor@wpi.edu)  
 Email: hmansoor@wpi.edu   
-Wednesday 2-3pm @ FL A22
+Wednesday 2-3pm @ FL A22  
 Friday 2-3pm @ FL A22
 
 SAs   
