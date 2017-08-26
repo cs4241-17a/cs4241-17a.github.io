@@ -27,7 +27,7 @@ hr {
 	height: 10px;
 	border: 0;
 	box-shadow: 0 10px 10px -10px #8c8b8b inset;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 iframe {
@@ -51,39 +51,34 @@ fame_div.selectAll('.project')
   .html( render_project )
 
 function render_project(d, i, A) {
-    var s = '';
-    s += '<link href="https://fonts.googleapis.com/css?family=Changa" rel="stylesheet">';
-    s += '<hr>';
-
-    s += '<div class="title">' + d.title.text + '</div>';
-    s += '<div class="team">Team: ' + team_members(d.team) + '</div>';
-    s += '<div class="description">Description: ' + d.description + '</div>';
-    s += '<div class="repo">Github Repository: ' + '<a href="'+ d.repo +'">' + d.repo + '</a><div>';
-    s += '<div class="link">Project Link: ' + '<a href="'+ d.link +'">' + d.link + '</a><div>';
-
-    s += '<div class="frame"><iframe id="frame" src="'+ d.link +'" style="width:500px;" frameborder="0"></iframe></div>';
-
-    s += '</br>';
-    return s;
+    return (`
+        <div>
+            <hr>
+            <div class="title"> ${d.title.text} </div>
+            <div class="team">Team: ${team_members(d.team)} </div>
+            <div class="description">Description: ${d.description}</div>
+            <div class="repo">Github Repository: <a href=${d.repo}> ${d.repo}</a></div>
+            <div class="link">Project Link: <a href=${d.link}> ${d.link}</a></div>
+            <div class="frame"><iframe src=${d.link} style="width:500px;" frameborder="0" /></div>
+        </div>
+        `
+    );
 } 
 
-function link_text(text, link) {
-    var s = '';
-    if (link != "") {
-        s += '<a href ="' + link + '">' + text + '</a>';
+function maybe_link(text, link) {
+    var s = ``;
+    if (link !== "") {
+        s = `<a href=${link}> ${text} </a>`;
     } else {
-        s += text;
+        s = `${text}`;
     }
     return s;
 }
 
 function team_members(d) {
-    var s = '';
-    d.forEach(function(person) {
-        s += '<div class="name">' +link_text(person.name, person.site)+' ('+ person.email +')'+ '</div>'; 
-    })
-   
-    return s;
+    return d.map(
+        person => `<div class="name"> ${maybe_link(person.name, person.site)} (${person.email}) </div>`
+    ).join('');
 }
 
 </script>
