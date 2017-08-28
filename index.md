@@ -17,6 +17,7 @@ title: home
     padding: 1.5rem;
     padding-top: 3rem;
     position: relative;
+    z-index: 1;
   }
 
   .class-header .small {
@@ -32,6 +33,7 @@ title: home
     top: 0;
     height: 100%;
     width: 250px;
+    z-index: -1;
   }
 
   .class-header:before {
@@ -54,8 +56,8 @@ Webware (CS-4241)
 
 Term A -- 2017
 
-Location  
-Fuller Lower  
-M/R 12:00-1:50pm  
+Location<br>
+Fuller Lower<br>
+M/R 12:00-1:50pm
 
 New? [Check out init](/init/) to get started.
