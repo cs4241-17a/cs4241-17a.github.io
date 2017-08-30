@@ -48,7 +48,7 @@ function render_event(d, i, A) {
 
 function materials_link(d) {
   var s = '';
-  s += '<a href="' + d + '">Materials</a>'
+  s += '<a href="/' + d + '">Materials</a>'
   return s;
 }
 
