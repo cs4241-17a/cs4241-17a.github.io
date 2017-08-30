@@ -60,4 +60,8 @@ Location<br>
 Fuller Lower<br>
 M/R 12:00-1:50pm
 
-New? [Check out init](/init/) to get started.
+### Announcements
+
+- wed-08-30: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack).
+
+- thu-08-24: New? [Check out init](/init/) to get started.
