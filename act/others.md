@@ -48,7 +48,13 @@ Given your demographics info, choose from one of the following local sites:
 - http://www.mywpl.org/
 
 While you will not redesign the entire website, you should redesign 3-4 pages on the website. One of those pages must be the homepage. The others must be accessible from the homepage.
-The Report
+
+### The Report
 Produce a slideshow that showcases your redesign.
-The first slide must only be screenshots of your sketches and redesign. Other groups will guess your demographics.
-Once demographics are revealed, the rest of your talk should tell us about major insights, design decisions, and process you followed to arrive at your design.
+Use Google Slides so you can use my laptop.
+
+The first slide must only be screenshots of your sketches and redesign. 
+Other groups will guess your demographics at this point.
+Try to make it interesting (aka don't give it away)!
+
+Once demographics are revealed, the rest of your talk should tell us about things like the major insights, design decisions, and processes you followed to arrive at your design.

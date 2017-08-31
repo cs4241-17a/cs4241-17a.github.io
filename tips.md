@@ -15,6 +15,9 @@ What are your tools and tips for web development?
 - [React](https://facebook.github.io/react/) 
 - [Angular] (https://angularjs.org/)
 - [ExpressJS] (https://expressjs.com/) <- Framework, no need for switch cases to send files!
+- [Python 3 http.server](https://docs.python.org/3/library/http.server.html) 
+This module contains the Python 3 equivalent of SimpleHTTPServer. The server can be started with `python -m http.server <port>`, after downloading the module (probably with pip).
+
 
 ## Editors and Tools
 
@@ -34,3 +37,4 @@ What are your tools and tips for web development?
 - [Material Design] (https://material.io/guidelines/material-design/introduction.html)
 - [Spotify Design Guideline] (https://developer.spotify.com/design/)
 - [Google fonts] (https://fonts.google.com/)
+
