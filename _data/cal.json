@@ -2,15 +2,17 @@
   {
     "date": "24-Aug-2017",
     "topic": "Getting Started with Web Development",
-    "assigned": { text: "A1", link: "http://github.com/cs4241-17a/a1-gettinstarted" }
+    "assigned": { text: "A1", link: "http://github.com/cs4241-17a/a1-gettingstarted" },
+    "materials": "materials/thu-08-24.zip"
   },
   {
     "date": "28-Aug-2017",
-    "topic": "Course overview and environment setup, Introduction to HTTP and Web applications, Live Coding"
+    "topic": "HTML, CSS Part 1",
+    "materials": "materials/mon-08-28.zip"
   },
   {
     "date": "31-Aug-2017",
-    "topic": "HTML, CSS",
+    "topic": "CSS Part 2",
     "assigned": { text: "A2", link: "https://github.com/cs4241-17a/A2-TheBasics" },
     "due": "A1"
   },
