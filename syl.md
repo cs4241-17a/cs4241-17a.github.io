@@ -42,6 +42,8 @@ Assignments are the core of this course.
 Each assignment will focus on a particular aspect of web development, such as routes or sending data from server to client and vice versa. 
 The lectures and labs will equip you with the background, theory, and technical skills to develop web applications.
 
+Assignment are due by the end of the date listed on the calendar, e.g. if the due date is on a Thursday, the assignment is due by 11:59pm Thursday.
+
 Labs
 ---
 Many weeks will include an in-class lab. 

@@ -41,6 +41,14 @@ function render_event(d, i, A) {
     s += '<div class="assigned">Assigned: ' + assigned_str(d.assigned) + '</div>'
   if(d.due)
     s += '<div class="due">Due: ' + d.due + '</div>'
+  if(d.materials)
+    s += '<div class="materials">' + materials_link(d.materials) + '</div>'
+  return s;
+}
+
+function materials_link(d) {
+  var s = '';
+  s += '<a href="/' + d + '">Materials</a>'
   return s;
 }
 
