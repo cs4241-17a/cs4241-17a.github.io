@@ -36,7 +36,7 @@ cal_div.selectAll('.event')
 function render_event(d, i, A) {
   var s = '';
   s += '<div class="date">' + date_rejigger(d.date) + '</div>'
-  s += '<div class="topic">Topic: ' + d.topic + '</div>'
+  s += '<div class="topic">Topic: ' + '<a href="/' + d.vid + '">' + d.topic + '</a>' + '</div>'
   if(d.assigned)
     s += '<div class="assigned">Assigned: ' + assigned_str(d.assigned) + '</div>'
   if(d.due)
