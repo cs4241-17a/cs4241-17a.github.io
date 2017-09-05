@@ -36,19 +36,27 @@ cal_div.selectAll('.event')
 function render_event(d, i, A) {
   var s = '';
   s += '<div class="date">' + date_rejigger(d.date) + '</div>'
-  s += '<div class="topic">Topic: ' + '<a href="/' + d.vid + '">' + d.topic + '</a>' + '</div>'
+  s += '<div class="topic">Topic: ' + d.topic + '</div>'
   if(d.assigned)
     s += '<div class="assigned">Assigned: ' + assigned_str(d.assigned) + '</div>'
   if(d.due)
     s += '<div class="due">Due: ' + d.due + '</div>'
   if(d.materials)
     s += '<div class="materials">' + materials_link(d.materials) + '</div>'
+  if(d.vid)
+    s += '<div class="vid">' + vid_link(d.vid) + '</div>'
   return s;
 }
 
 function materials_link(d) {
   var s = '';
-  s += '<a href="/' + d + '">Materials</a>'
+  s += '<a href="/' + d + '">materials</a>'
+  return s;
+}
+
+function vid_link(d) {
+  var s = '';
+  s += '<a href="' + d + '">vid</a>'
   return s;
 }
 
