@@ -4,20 +4,20 @@
     "topic": "Getting Started with Web Development",
     "assigned": { text: "A1", link: "http://github.com/cs4241-17a/a1-gettingstarted" },
     "materials": "materials/thu-08-24.zip",
-    "vid": "https://www.youtube.com/watch?v=9Vt2JPy69ao&t=1629s&list=PLq-r_7K2pEiHy_vmbfKh1pQ-0TFEvbMWy&index=1"
+    "vid": "https://youtu.be/9Vt2JPy69ao"
   },
   {
     "date": "28-Aug-2017",
     "topic": "HTML, CSS Part 1",
     "materials": "materials/mon-08-28.zip",
-    "vid": "https://www.youtube.com/watch?v=A4vPDGdg70Q&list=PLq-r_7K2pEiHy_vmbfKh1pQ-0TFEvbMWy&index=2"
+    "vid": "https://youtu.be/A4vPDGdg70Q"
   },
   {
     "date": "31-Aug-2017",
     "topic": "CSS Part 2",
     "assigned": { text: "A2", link: "https://github.com/cs4241-17a/A2-TheBasics" },
     "due": "A1",
-    "vid": "https://www.youtube.com/watch?v=PM3p3bJ-9F4&t=6s&list=PLq-r_7K2pEiHy_vmbfKh1pQ-0TFEvbMWy&index=3"
+    "vid": "https://youtu.be/PM3p3bJ-9F4"
   },
   {
     "date": "04-Sep-2017",
@@ -29,7 +29,7 @@
     "assigned": { text: "A3", link: "https://github.com/cs4241-17a/A3-Filters" },
     "due": "A2",
     "materials": "materials/thu-09-07.zip",
-    "vid": "https://www.youtube.com/watch?v=PM3p3bJ-9F4&t=6s&list=PLq-r_7K2pEiHy_vmbfKh1pQ-0TFEvbMWy&index=4"
+    "vid": "https://youtu.be/-GnQN877OtA"
   },
   {
     "date": "11-Sep-2017",
