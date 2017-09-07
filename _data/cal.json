@@ -25,7 +25,7 @@
   },
   {
     "date": "07-Sep-2017",
-    "topic": "Servers and Forms",
+    "topic": "URLs, HTTP, Servers & Forms",
     "assigned": { text: "A3", link: "https://github.com/cs4241-17a/A3-Filters" },
     "due": "A2",
     "materials": "materials/thu-09-07.zip",
@@ -34,23 +34,23 @@
   {
     "date": "11-Sep-2017",
     "topic": "Exam Review, Persistence",
-    "assigned": { text: "A4", link: "" },
-    "due": "A3"
+    "assigned": { text: "A4", link: "" }
   },
   {
     "date": "14-Sep-2017",
     "topic": "Exam 1",
     "assigned": { text: "Final Project", link: "" },
-    "due": "A4"
+    "due": "A3"
   },
   {
     "date": "18-Sep-2017",
-    "topic": "Midpoint Survey Discussion; Tools, Fonts, Design, and Usability"
+    "topic": "Midpoint Survey Discussion; Tools, Fonts, Design, and Usability",
+    "assigned": { text: "A5", link: "" },
+    "due": "A4"
   },
   {
     "date": "21-Sep-2017",
     "topic": "Exam 1 Recap, AJAX Introduction",
-    "assigned": { text: "A5", link: "" },
     "due": "Final Project Proposal"
   },
   {
