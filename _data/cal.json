@@ -27,7 +27,9 @@
     "date": "07-Sep-2017",
     "topic": "Servers and Forms",
     "assigned": { text: "A3", link: "https://github.com/cs4241-17a/A3-Filters" },
-    "due": "A2"
+    "due": "A2",
+    "materials": "materials/thu-09-07.zip",
+    "vid": "https://www.youtube.com/watch?v=PM3p3bJ-9F4&t=6s&list=PLq-r_7K2pEiHy_vmbfKh1pQ-0TFEvbMWy&index=4"
   },
   {
     "date": "11-Sep-2017",
