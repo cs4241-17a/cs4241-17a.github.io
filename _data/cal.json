@@ -34,7 +34,7 @@
   {
     "date": "11-Sep-2017",
     "topic": "Exam Review, Persistence",
-    "assigned": { text: "A4", link: "" }
+    "assigned": { text: "A4", link: "https://github.com/cs4241-17a/A4-Persistence" }
   },
   {
     "date": "14-Sep-2017",
