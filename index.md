@@ -17,7 +17,7 @@ title: home
     padding: 1.5rem;
     padding-top: 3rem;
     position: relative;
-    z-index: 1;
+    z-index: -1;
   }
 
   .class-header .small {
@@ -33,7 +33,7 @@ title: home
     top: 0;
     height: 100%;
     width: 250px;
-    z-index: -1;
+    z-index: -2;
   }
 
   .class-header:before {
