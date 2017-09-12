@@ -41,7 +41,7 @@
   {
     "date": "14-Sep-2017",
     "topic": "Exam 1",
-    "assigned": { text: "Final Project", link: "" },
+    "assigned": { text: "Final Project", link: "https://github.com/cs4241-17a/final-project" },
     "due": "A3"
   },
   {
