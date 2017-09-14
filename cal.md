@@ -39,7 +39,7 @@ function render_event(d, i, A) {
   s += '<div class="topic">Topic: ' + d.topic + '</div>'
   if(d.assigned)
     d.assigned.forEach( function(a) {
-      s += '<div class="assigned">Assigned: ' + assigned_str(d.assigned) + '</div>'
+      s += '<div class="assigned">Assigned: ' + assigned_str(a) + '</div>'
     })
   if(d.due)
     s += '<div class="due">Due: ' + d.due + '</div>'
