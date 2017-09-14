@@ -38,7 +38,9 @@ function render_event(d, i, A) {
   s += '<div class="date">' + date_rejigger(d.date) + '</div>'
   s += '<div class="topic">Topic: ' + d.topic + '</div>'
   if(d.assigned)
-    s += '<div class="assigned">Assigned: ' + assigned_str(d.assigned) + '</div>'
+    d.assigned.forEach( function(a) {
+      s += '<div class="assigned">Assigned: ' + assigned_str(d.assigned) + '</div>'
+    })
   if(d.due)
     s += '<div class="due">Due: ' + d.due + '</div>'
   if(d.materials)
