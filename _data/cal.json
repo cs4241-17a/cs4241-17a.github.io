@@ -41,7 +41,10 @@
   {
     "date": "14-Sep-2017",
     "topic": "Exam 1",
-    "assigned": [{ text: "Final Project", link: "https://github.com/cs4241-17a/final-project" }, {text: "Midpoint Survey", link: "https://goo.gl/forms/F4bQQPkzG1Suy5EJ2"],
+    "assigned": [
+      { text: "Final Project", link: "https://github.com/cs4241-17a/final-project" }, 
+      {text: "Midpoint Survey", link: "https://goo.gl/forms/F4bQQPkzG1Suy5EJ2"}
+    ],
     "due": "A3",
     "vid": "https://youtu.be/ZjCiOEAm4Z4"
   },
