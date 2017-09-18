@@ -51,8 +51,8 @@
   },
   {
     "date": "18-Sep-2017",
-    "topic": "Server Activity",
-    "assigned": [{ text: "A5", link: "" }],
+    "topic": "Server/API Activity",
+    "assigned": [{ text: "A5", link: "https://github.com/cs4241-17a/A5-AJAX" }],
     "due": "A4"
   },
   {
