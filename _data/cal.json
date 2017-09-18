@@ -43,7 +43,7 @@
     "topic": "Exam 1",
     "assigned": [
       { text: "Final Project", link: "https://github.com/cs4241-17a/final-project" }, 
-      {text: "Midpoint Survey", link: "https://goo.gl/forms/F4bQQPkzG1Suy5EJ2"}
+      { text: "Midpoint Survey", link: "https://goo.gl/forms/F4bQQPkzG1Suy5EJ2" }
     ],
     "due": "A3",
     "vid": "https://youtu.be/ZjCiOEAm4Z4",
@@ -51,24 +51,24 @@
   },
   {
     "date": "18-Sep-2017",
-    "topic": "Midpoint Survey Discussion; Tools, Fonts, Design, and Usability",
+    "topic": "Server Activity",
     "assigned": [{ text: "A5", link: "" }],
     "due": "A4"
   },
   {
     "date": "21-Sep-2017",
-    "topic": "Exam 1 Recap, AJAX Introduction",
+    "topic": "Exam 1 Recap, The DOM, Event Handling and JavaScript Events",
     "due": "Final Project Proposal"
   },
   {
     "date": "25-Sep-2017",
-    "topic": "The DOM, Event Handling and JavaScript Events",
+    "topic": "Cookies, Sessions, Local Storage",
     "assigned": [{ text: "A6", link: "" }],
     "due": "A5"
   },
   {
     "date": "28-Sep-2017",
-    "topic": "Cookies, Exam 2 Review"
+    "topic": "Design and Evaluation, Exam 2 Review"
   },
   {
     "date": "02-Oct-2017",
@@ -78,7 +78,7 @@
   },
   {
     "date": "05-Oct-2017",
-    "topic": "Local Storage",
+    "topic": "MVC Frameworks",
     "assigned": [{ text: "A8", link: "" }],
     "due": "A7"
   },
