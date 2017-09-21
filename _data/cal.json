@@ -40,7 +40,7 @@
   },
   {
     "date": "14-Sep-2017",
-    "topic": "Exam 1",
+    "topic": "XMLHTTPRequests, Exam 1",
     "assigned": [
       { text: "Final Project", link: "https://github.com/cs4241-17a/final-project" }, 
       { text: "Midpoint Survey", link: "https://goo.gl/forms/F4bQQPkzG1Suy5EJ2" }
@@ -58,7 +58,9 @@
   {
     "date": "21-Sep-2017",
     "topic": "Exam 1 Recap, The DOM, Event Handling and JavaScript Events",
-    "due": "Final Project Proposal"
+    "due": "Final Project Proposal",
+    "vid": "https://www.youtube.com/watch?v=p5IUsg7ZImg",
+    "materials": "materials/thu-09-21.zip"
   },
   {
     "date": "25-Sep-2017",
