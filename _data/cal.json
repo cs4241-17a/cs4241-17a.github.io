@@ -65,7 +65,7 @@
   {
     "date": "25-Sep-2017",
     "topic": "Cookies, Sessions, Local Storage",
-    "assigned": [{ text: "A6", link: "" }],
+    "assigned": [{ text: "A6", link: "https://github.com/cs4241-17a/A6-Events" }],
     "due": "A5"
   },
   {
