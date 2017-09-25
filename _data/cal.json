@@ -64,23 +64,23 @@
   },
   {
     "date": "25-Sep-2017",
-    "topic": "Cookies, Sessions, Local Storage",
+    "topic": "Design and Evaluation",
     "assigned": [{ text: "A6", link: "" }],
     "due": "A5"
   },
   {
     "date": "28-Sep-2017",
-    "topic": "Design and Evaluation, Exam 2 Review"
+    "topic": "MVC, Exam 2 Review"
   },
   {
     "date": "02-Oct-2017",
-    "topic": "Templating, Exam 2",
+    "topic": "TBA, Exam 2",
     "assigned": [{ text: "A7", link: "" }],
     "due": "A6"
   },
   {
     "date": "05-Oct-2017",
-    "topic": "MVC Frameworks",
+    "topic": "TBA",
     "assigned": [{ text: "A8", link: "" }],
     "due": "A7"
   },
