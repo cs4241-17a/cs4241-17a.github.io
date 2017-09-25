@@ -70,24 +70,22 @@
   },
   {
     "date": "28-Sep-2017",
-    "topic": "MVC, Exam 2 Review"
+    "topic": "MVC, Exam 2 Review",
+    "assigned": [{ text: "A7", link: "" }]
   },
   {
     "date": "02-Oct-2017",
     "topic": "TBA, Exam 2",
-    "assigned": [{ text: "A7", link: "" }],
     "due": "A6"
   },
   {
     "date": "05-Oct-2017",
-    "topic": "TBA",
-    "assigned": [{ text: "A8", link: "" }],
-    "due": "A7"
+    "topic": "TBA"
   },
   {
     "date": "09-Oct-2017",
     "topic": "RESTful Services, Real-time, Sockets",
-    "due": "A8"
+    "due": "A7"
   },
   {
     "date": "12-Oct-2017",
