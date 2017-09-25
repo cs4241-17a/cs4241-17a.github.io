@@ -66,7 +66,9 @@
     "date": "25-Sep-2017",
     "topic": "Design and Evaluation",
     "assigned": [{ text: "A6", link: "https://github.com/cs4241-17a/A6-Events" }],
-    "due": "A5"
+    "due": "A5",
+    "vid": "http://www.youtube.com/watch?v=qE0a2L_8W3w",
+    "materials": "materials/mon-09-25.zip"
   },
   {
     "date": "28-Sep-2017",
