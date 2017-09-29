@@ -73,7 +73,7 @@
   {
     "date": "28-Sep-2017",
     "topic": "MVC, Exam 2 Review",
-    "assigned": [{ text: "A7", link: "" }]
+    "assigned": [{ text: "A7", link: "https://github.com/cs4241-17a/A7-Sessions" }]
   },
   {
     "date": "02-Oct-2017",
