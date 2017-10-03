@@ -74,11 +74,12 @@
     "date": "28-Sep-2017",
     "topic": "MVC, Exam 2 Review",
     "assigned": [{ text: "A7", link: "https://github.com/cs4241-17a/A7-Sessions" }],
-    "vid": "https://www.youtube.com/watch?v=ZtMRBNT1Vn4",
+    "materials": "materials/thu-09-28.zip",
+    "vid": "https://www.youtube.com/watch?v=ZtMRBNT1Vn4"
   },
   {
     "date": "02-Oct-2017",
-    "topic": "TBA, Exam 2",
+    "topic": "Exam 2: The DOM, Event Handling and JavaScript Events",
     "due": "A6"
   },
   {
