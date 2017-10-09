@@ -58,7 +58,7 @@ d3.tsv("funds.tsv", function(d) {
   if (error) throw error;
 
 //  x.domain(d3.extent(data, function(d) { return d.date; }));
-  x.domain([parseTime('24-Sep-17'), parseTime('12-Oct-17')]);
+  x.domain([parseTime('24-Sep-17'), parseTime('10-Oct-17')]);
 //  y.domain(d3.extent(data, function(d) { return d.close; }));
   y.domain([0, 750]);
 
